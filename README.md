@@ -1,2 +1,3 @@
 # stories
-short stories for kids
+short stories for kids : which are simple and easy to understand
+
