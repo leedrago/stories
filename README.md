@@ -3,7 +3,7 @@ short stories for kids : which are simple and easy to understand
 
 ---
 
-## Story Lists
+## List Stories
 
-- [A Cleaver Fox](./a cleaver fox)
-- [Honest Wood Cutter](./honest wood cutter)
+- [A Cleaver Fox](./a%20cleaver%20fox)
+- [Honest Wood Cutter](./honest%20wood%20cutter)
